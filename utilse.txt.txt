@@ -1,1 +1,2 @@
-utility function for version 1.
+utility function for version 1. learn it.
+
