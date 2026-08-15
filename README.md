@@ -1,28 +1,63 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
-<h1 align="center">Hi 👋, I'm shubham</h1>
-<h3 align="center">A passionate python developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Shubham Dagar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamdagar9854&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamdagar9854" /> </p>
+Backend-focused full-stack developer building cloud-native microservices, event-driven systems, and AI-integrated backend platforms.
 
-- 🌱 I’m currently learning **web development, DSA**
+[![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
+[![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 
-- 👯 I’m looking to collaborate on **open source projects**
+## Current focus
 
-- 💬 Ask me about **python**
+- Backend and microservices architecture: Java, Spring Boot, Spring Cloud (Gateway, Eureka), Spring Security, Spring Data JPA.
+- Event-driven and resilient systems: Apache Kafka, Resilience4j, and the Saga pattern with compensating transactions.
+- Full-stack development: Node.js, Express.js, REST APIs, JavaScript, HTML5, CSS3.
+- AI-integrated backend features: Google Gemini API, Mistral, and Ollama for local LLM deployment.
+- Open-source contribution to Open-MSS/MSS as part of GSoC 2027 preparation.
 
-- 📫 How to reach me **shubhamdagar9854@gmail.com**
+## Featured repositories
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubham dagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham dagar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shubhamdathm2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamdathm2" height="30" width="40" /></a>
-<a href="https://discord.gg/shubham_73298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shubham_73298" height="30" width="40" /></a>
-</p>
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [OrderPulse](https://github.com/shubhamdagar9854) | Full-stack microservices e-commerce order management system — 6 independent services (Gateway, User, Product, Order, Payment, Notification) implementing the Saga pattern with compensating transactions. | Java, Spring Boot, Spring Cloud, Kafka, MySQL, Docker, Gemini API |
+| [Smart Resume Scanner](https://github.com/shubhamdagar9854) | Full-stack AI resume analysis app with an encrypted admin dashboard, deployed with sub-200ms API response times. | Python, Flask, SQLite, JavaScript |
+| [Automated Email Logger](https://github.com/shubhamdagar9854) | Modular OAuth 2.0 integration for real-time tracking between Gmail and Google Sheets with duplicate-prevention logic. | Node.js, OAuth 2.0, Google APIs |
+| [Secure User Authentication System](https://github.com/shubhamdagar9854) | bcrypt-encrypted, session-based login system with account lockout on repeated failures. | MERN Stack, Passport.js |
+| [Referring Expression & Image Analysis](https://github.com/shubhamdagar9854) | Multi-stage, spatial/attribute-based object-isolation logic for high-density traffic scenes. | Visual Data Logic |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Technical stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.shion.dev/api?username=shubhamdagar9854&show_icons=true&locale=en&v=2" alt="shubhamdagar9854" /></p>
+**Languages:** Java, Python, JavaScript, HTML5, CSS3
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=shubhamdagar9854&theme=tokyonight&hide_border=true&v=2" alt="shubhamdagar9854" /></p>
+**Backend & Microservices:** Spring Boot, Spring Cloud (Gateway, Eureka), Spring Security, Spring Data JPA, Node.js, Express.js, REST APIs, Kafka, Resilience4j
+
+**Databases & Cloud:** MySQL, MongoDB, SQLite, OAuth 2.0, JWT, Docker, Render, Vercel
+
+**Tools & DevOps:** Git, GitHub, Maven, Spring Actuator, Passport.js, Caffeine Cache
+
+**AI / ML:** Google Gemini API, Mistral, Ollama (Local LLM Deployment)
+
+## Open source
+
+Contributing to [Open-MSS/MSS](https://github.com/Open-MSS/MSS) as part of GSoC 2027 preparation — debugging CI pipeline failures in Python geospatial modules (`netCDF4tools.py`, `ogcwms.py`) related to class initialization, including cross-platform (Windows/Linux) environment troubleshooting.
+
+## Achievements
+
+- Maintaining a 150+ day GitHub contribution streak.
+- Regular problem-solving on LeetCode with an 84% submission acceptance rate.
+
+## Links
+
+- LinkedIn: [linkedin.com/in/shubham-dagar](https://www.linkedin.com/in/shubham-dagar/)
+- GitHub: [github.com/shubhamdagar9854](https://github.com/shubhamdagar9854)
+- Email: [shubhamdagar9854@gmail.com](mailto:shubhamdagar9854@gmail.com)
+
+## GitHub stats
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamdagar9854&show_icons=true&theme=radical)
