@@ -58,6 +58,7 @@ Contributing to [Open-MSS/MSS](https://github.com/Open-MSS/MSS) as part of GSoC 
 - GitHub: [github.com/shubhamdagar9854](https://github.com/shubhamdagar9854)
 - Email: [shubhamdagar9854@gmail.com](mailto:shubhamdagar9854@gmail.com)
 
-## GitHub stats
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamdagar9854&show_icons=true&theme=radical)
+## GitHub streak
+ 
+![Shubham's GitHub streak](https://github-readme-streak-stats-eight.vercel.app?user=shubhamdagar9854&theme=dracula&hide_border=true)
